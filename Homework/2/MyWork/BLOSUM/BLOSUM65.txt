@@ -1,0 +1,69 @@
+########################################
+# Program: needle
+# Rundate: Thu 11 Feb 2016 23:48:53
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20160211-234852-0025-39119409-pg.asequence
+#    -bsequence emboss_needle-I20160211-234852-0025-39119409-pg.bsequence
+#    -datafile EBLOSUM65
+#    -gapopen 50.0
+#    -gapextend 1.0
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: EMBOSS_001
+# Matrix: EBLOSUM65
+# Gap_penalty: 50.0
+# Extend_penalty: 1.0
+#
+# Length: 329
+# Identity:      71/329 (21.6%)
+# Similarity:   118/329 (35.9%)
+# Gaps:          49/329 (14.9%)
+# Score: 77.0
+# 
+#
+#=======================================
+
+EMBOSS_001         1 -----------------------------------------MFFTLSEIQ      9
+                                                              :...:....
+EMBOSS_001         1 MIRRVRGGFSTGSRAFPGFSGADDEGVLIGLETSQWLVEALILRRVMFRS     50
+
+EMBOSS_001        10 LLSKRMKGFPRAISEELRGWHWNEPPLYPSSNTLLSVSDLTNGLCDSGRY     59
+                     :...........:..|||||.|:..||.|.:...|.||::.:..|::.|.
+EMBOSS_001        51 IRRLYELARADPVDPELRGWSWDRLPLKPRAYLNLGVSEIASKYCETRRD    100
+
+EMBOSS_001        60 VYLKHKGIVPKVEAKIGNTIHTTYATAIETIKRLIYEHEDLDSVKLRTLM    109
+                     ::|:.|........:...|....:    :.|...:.|...|.........
+EMBOSS_001       101 IWLRRKTGARAEPTEPILTGRLIH----DAISLALKETAKLLINNTEPYT    146
+
+EMBOSS_001       110 TDEFYNLKVEVIEVAKILWDHIVSIYSAELEKARSKPFLRKDSLASLVIP    159
+                     ..:..:.|...:...|.....:...|.|.|.....:....|....:....
+EMBOSS_001       147 AYQILSEKWRKLNPPKGYEKTVEKTYKATLITILGEAMYEKLVNETPQPV    196
+
+EMBOSS_001       160 FHVEYPVDGSLVGLQSALRVDAFIPILPLIAEMKTGSYKRDHELALAGYA    209
+                     .:.||.|||:.:|:...|.||....  .:|.:.|||:.:..|:|::.|||
+EMBOSS_001       197 AYSEYRVDGTPLGMSQNLSVDVISD--SVIIDFKTGAPRDFHKLSITGYA    244
+
+EMBOSS_001       210 LAFESQYEIPVDFGYLCYVNVIEGKIHNNCRLIVISDTLRQEFVEVRDRA    259
+                     ||.|:.||.|.|:|.|.|:|..|.. ....:.:.||:|||:.|:|.||..
+EMBOSS_001       245 LALEAAYETPRDYGLLIYINNPEDP-RITYKPVYISNTLRRLFIEERDNI    293
+
+EMBOSS_001       260 LRAIDDDVDPGLAKKCSADCPFLPHCKGG    288
+                     :..:.:|.:|.....|...||....|.. 
+EMBOSS_001       294 IDMLLEDAEPPKDLNCQPTCPLHGACNK-    321
+
+
+#---------------------------------------
+#---------------------------------------

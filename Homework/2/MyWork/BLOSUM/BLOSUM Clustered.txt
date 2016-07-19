@@ -1,0 +1,93 @@
+########################################
+# Program: needle
+# Rundate: Thu 11 Feb 2016 23:53:21
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20160211-235320-0658-4687664-pg.asequence
+#    -bsequence emboss_needle-I20160211-235320-0658-4687664-pg.bsequence
+#    -datafile EBLOSUMN
+#    -gapopen 50.0
+#    -gapextend 1.0
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: EMBOSS_001
+# Matrix: EBLOSUMN
+# Gap_penalty: 50.0
+# Extend_penalty: 1.0
+#
+# Length: 601
+# Identity:       2/601 ( 0.3%)
+# Similarity:     4/601 ( 0.7%)
+# Gaps:         593/601 (98.7%)
+# Score: 8.0
+# 
+#
+#=======================================
+
+EMBOSS_001         1 MFFTLSEIQLLSKRMKGFPRAISEELRGWHWNEPPLYPSSNTLLSVSDLT     50
+                                                                       
+EMBOSS_001         1 --------------------------------------------------      0
+
+EMBOSS_001        51 NGLCDSGRYVYLKHKGIVPKVEAKIGNTIHTTYATAIETIKRLIYEHEDL    100
+                                                                       
+EMBOSS_001         1 --------------------------------------------------      0
+
+EMBOSS_001       101 DSVKLRTLMTDEFYNLKVEVIEVAKILWDHIVSIYSAELEKARSKPFLRK    150
+                                                                       
+EMBOSS_001         1 --------------------------------------------------      0
+
+EMBOSS_001       151 DSLASLVIPFHVEYPVDGSLVGLQSALRVDAFIPILPLIAEMKTGSYKRD    200
+                                                                       
+EMBOSS_001         1 --------------------------------------------------      0
+
+EMBOSS_001       201 HELALAGYALAFESQYEIPVDFGYLCYVNVIEGKIHNNCRLIVISDTLRQ    250
+                                                                       
+EMBOSS_001         1 --------------------------------------------------      0
+
+EMBOSS_001       251 EFVEVRDRALRAIDDDVDPGLAKKCSADCPFLPHCKGG------------    288
+                                                   .:...:||            
+EMBOSS_001         1 ------------------------------MIRRVRGGFSTGSRAFPGFS     20
+
+EMBOSS_001       289 --------------------------------------------------    288
+                                                                       
+EMBOSS_001        21 GADDEGVLIGLETSQWLVEALILRRVMFRSIRRLYELARADPVDPELRGW     70
+
+EMBOSS_001       289 --------------------------------------------------    288
+                                                                       
+EMBOSS_001        71 SWDRLPLKPRAYLNLGVSEIASKYCETRRDIWLRRKTGARAEPTEPILTG    120
+
+EMBOSS_001       289 --------------------------------------------------    288
+                                                                       
+EMBOSS_001       121 RLIHDAISLALKETAKLLINNTEPYTAYQILSEKWRKLNPPKGYEKTVEK    170
+
+EMBOSS_001       289 --------------------------------------------------    288
+                                                                       
+EMBOSS_001       171 TYKATLITILGEAMYEKLVNETPQPVAYSEYRVDGTPLGMSQNLSVDVIS    220
+
+EMBOSS_001       289 --------------------------------------------------    288
+                                                                       
+EMBOSS_001       221 DSVIIDFKTGAPRDFHKLSITGYALALEAAYETPRDYGLLIYINNPEDPR    270
+
+EMBOSS_001       289 --------------------------------------------------    288
+                                                                       
+EMBOSS_001       271 ITYKPVYISNTLRRLFIEERDNIIDMLLEDAEPPKDLNCQPTCPLHGACN    320
+
+EMBOSS_001       289 -    288
+                      
+EMBOSS_001       321 K    321
+
+
+#---------------------------------------
+#---------------------------------------
